@@ -1,0 +1,7 @@
+ Ubah data siswa
+ daftar baru
+ Ekspor
+====================
+-pindahkan form beasiswa dan prestasi di detail siswa(masing2 jadi tombol)
+-sibling dan parents tambahkan field relasi, menggunakan ref_relation (form daftar baru)
+-pendidikan dan pekerjaan di form daftar baru milik orang tua menggunakan ref di database
